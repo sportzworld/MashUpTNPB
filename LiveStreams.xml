@@ -159,7 +159,8 @@
 
 <item>
 <title>WWE</title>
-<link></link>      <description></description>   </item><item>      <title>Two and a Half Men</title>      <media:thumbnail url='http://mashcultu.re/wp-content/uploads/2012/11/two-and-a-half-men.jpg'/>      <link>rtmp://50.7.241.202/app playpath=men swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?men live=1</link>
+<link>rtmp://141.8.244.56/tv playpath=wwe_live swfUrl=http://sportsembed.com/class/playerhd.swf pageUrl=http://sportsembed.com/embed.php?v=wwe_live&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1
+</link>     
 <thumbnail>http://www.wwe.com/f/styles/ep_trending/public/wwe_default.jpg</thumbnail>
 </item>
 
