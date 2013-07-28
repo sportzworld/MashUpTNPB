@@ -6,13 +6,7 @@
 <message>[COLOR red]TNPB Live Streams[/COLOR]</message>
 <thumbnail>http://www.macausportingclub.com/index_htm_files/live-stream-animation.gif</thumbnail>
 </info>
-###########################################################################################################################
-
-<item>
-<title>Sky Sports F1</title>
-<link>rtmp://s01.futubox.to:1935/live?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj playpath=z050360.stream?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj <swfUrl>http://www.futubox.to/donottouch/fpv3.39.swf pageUrl=http://www.futubox.to/channels/Sky_Sport_F1_uk/livetv live=1</link>
-<thumbnail>http://www.futubox.to/system/icon_ds/335/original/sky_uk_sports_f1.png</thumbnail>
-</item>
+#######################################################################################################################################
 
 <item>
 <title>hangin' with Mr Cooper</title>
