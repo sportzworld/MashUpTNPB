@@ -9,21 +9,15 @@
 #######################################################################################################################################
 
 <item>
-<title>Boxnation</title>
-<link>rtmp://78.129.169.136:1935/live?token=u2357@d06c4c61bace15acad6f08a1602dc535 playpath=202_Box_Nation.stream?token=u2357@d06c4c61bace15acad6f08a1602dc535 swfUrl=http://ntv.mx/inc/grindplayer/GrindPlayer.swf pageUrl=http://ntv.mx/?c=2&a=0&p=50# live=true</link>
-<thumbnail></thumbnail>
+<title>Hangin' with Mr Cooper</title>
+<link>rtmp://198.27.74.25/app playpath=cooper swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?cooper live=1</link>
+<thumbnail>http://media.tumblr.com/tumblr_lqes7kqHYQ1qhfby5.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports F1</title>
 <link>rtmp://s01.futubox.to:1935/live?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj playpath=z050360.stream?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj swfUrl=http://www.futubox.to/donottouch/fpv3.39.swf pageUrl=http://www.futubox.to/channels/Sky_Sport_F1_uk/livetv live=true timeout=10</link>
 <thumbnail>http://www.futubox.to/system/icon_ds/335/original/sky_uk_sports_f1.png</thumbnail>
-</item>
-
-<item>
-<title>Hangin' with Mr Cooper</title>
-<link>rtmp://198.27.74.25/app playpath=cooper swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?cooper live=1</link>
-<thumbnail>http://media.tumblr.com/tumblr_lqes7kqHYQ1qhfby5.jpg</thumbnail>
 </item>
 
 <item>
