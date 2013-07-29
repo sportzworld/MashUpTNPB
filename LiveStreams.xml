@@ -7,6 +7,14 @@
 <thumbnail>http://www.macausportingclub.com/index_htm_files/live-stream-animation.gif</thumbnail>
 </info>
 #######################################################################################################################################
+
+<item>
+<title>Boxnation</title>
+<link>rtmp://78.129.169.136:1935/live?token=u2357@d06c4c61bace15acad6f08a1602dc535 playpath=202_Box_Nation.stream?token=u2357@d06c4c61bace15acad6f08a1602dc535 swfUrl=http://ntv.mx/inc/grindplayer/GrindPlayer.swf pageUrl=http://ntv.mx/?c=2&a=0&p=50# live=true timeout=10
+</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>Sky Sports F1</title>
 <link>rtmp://s01.futubox.to:1935/live?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj playpath=z050360.stream?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj swfUrl=http://www.futubox.to/donottouch/fpv3.39.swf pageUrl=http://www.futubox.to/channels/Sky_Sport_F1_uk/livetv live=true timeout=10</link>
