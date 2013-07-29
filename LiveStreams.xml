@@ -8,7 +8,11 @@
 </info>
 #######################################################################################################################################
 
-
+<item>
+<title>Boxnation</title>
+<link>rtmp://78.129.169.136:1935/live?token=u2357@d06c4c61bace15acad6f08a1602dc535 playpath=202_Box_Nation.stream?token=u2357@d06c4c61bace15acad6f08a1602dc535 swfUrl=http://ntv.mx/inc/grindplayer/GrindPlayer.swf pageUrl=http://ntv.mx/?c=2&a=0&p=50# live=true</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Sky Sports F1</title>
@@ -95,12 +99,6 @@
 </item>
 
 <item>
-<title>Jackie Chan Movies</title>
-<link></link>      <description></description>   </item><item>      <title>UFC</title>      <media:thumbnail url='http://cdn.bleacherreport.net/images_root/slides/photos/002/090/934/UFC-Logo-mma_original_display_image.jpg?1333408655'/>      <link></link>
-<thumbnail>http://www.chinesenewyear.me/wordpress/wp-content/uploads/2011/03/Jackie-Chan-playing-kung-fu.jpg</thumbnail>
-</item>
-
-<item>
 <title>King of Queens</title>
 <link>rtmp://50.7.241.202/app playpath=koq swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?koq live=1</link>
 <thumbnail>http://cbscw44.files.wordpress.com/2012/01/the_king_of_queens.jpg</thumbnail>
@@ -149,21 +147,8 @@
 </item>
 
 <item>
-<title>Whose Line is it Anyway?</title>
-<link></link>      <description></description>   </item><item>      <title>Cheers</title>      <media:thumbnail url='http://3.bp.blogspot.com/-mRz73ycFju0/T_8gK4-mGzI/AAAAAAAABwY/V2hiE684-gk/s1600/Cheers.jpg'/>      <link>rtmp://50.7.241.202/app playpath=cheers swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?cheers live=1</link>
-<thumbnail>http://improvthrowdown.files.wordpress.com/2011/07/whose-line-is-it-anyway-tv-show-photo.jpeg</thumbnail>
-</item>
-
-<item>
-<title>Discovery Channel</title>
-<link></link>      <description></description>   </item><item>      <title>Family Guy</title>      <media:thumbnail url='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmdUH4cKDDVYaIR7XLNhne7WKyaYujnAp5HupVE0lrKg_MedFXg'/>      <link>rtmp://50.7.241.202/app playpath=familyguy swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?familyguy live=1</link>
-<thumbnail>http://en.kingofsat.net/jpg/discovery.jpg</thumbnail>
-</item>
-
-<item>
 <title>WWE</title>
-<link>rtmp://141.8.244.56/tv playpath=wwe_live swfUrl=http://sportsembed.com/class/playerhd.swf pageUrl=http://sportsembed.com/embed.php?v=wwe_live&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1
-</link>     
+<link>rtmp://141.8.244.56/tv playpath=wwe_live swfUrl=http://sportsembed.com/class/playerhd.swf pageUrl=http://sportsembed.com/embed.php?v=wwe_live&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1</link>     
 <thumbnail>http://www.wwe.com/f/styles/ep_trending/public/wwe_default.jpg</thumbnail>
 </item>
 
@@ -177,12 +162,6 @@
 <title>Breaking Bad</title>
 <link>rtmp://50.7.241.202/app playpath=bad swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex.php?bad live=1</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhAbZDUix6wk7tS0KV-q2pRH9M3x9JVWJgq1lLaKEmXn2cy5inwA</thumbnail>
-</item>
-
-<item>
-<title>The Cleveland Show</title>
-<link></link>      <description></description>   </item><item>      <title>The Office</title>      <media:thumbnail url='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIDWZkmK0spJ-xciVHObr7j9bxGgkoZ_YpMXfux5GqUBgD20EP'/>      <link>rtmp://198.27.74.25/app playpath=office swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?office live=1</link>
-<thumbnail>http://2.bp.blogspot.com/-oDQsqDBhHC4/UHGFfRY4U8I/AAAAAAAAABo/ncOTCL-roT8/s1600/the_cleveland_show_wallpaper_1600x1200_1.jpg</thumbnail>
 </item>
 
 <item>
