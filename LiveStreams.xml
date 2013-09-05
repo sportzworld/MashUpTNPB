@@ -9,6 +9,12 @@
 #######################################################################################################################################
 
 <item>
+<title>test</title>
+<link>rtmp://31.209.96.18:1935/live/12_Sky_Sports_1.stream?token=x4543%400bfcbdcb2d4d3916540a0fe6a6edf455 swfUrl=http://ntv.mx/inc/grindplayer/GrindPlayer.swf app=live?token=x4543%400bfcbdcb2d4d3916540a0fe6a6edf455 playPath=12_Sky_Sports_1.stream?token=x4543%400bfcbdcb2d4d3916540a0fe6a6edf455 pageUrl=http://ntv.mx/?c=2&a=0&p=50 timeout=10 swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf app=live/ pageUrl=http://www.ntv.mx/index.php?c=6&a=0</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Hangin' with Mr Cooper</title>
 <link>rtmp://198.27.74.25/app playpath=cooper01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?cooper01 live=1</link>
 <thumbnail>http://media.tumblr.com/tumblr_lqes7kqHYQ1qhfby5.jpg</thumbnail>
