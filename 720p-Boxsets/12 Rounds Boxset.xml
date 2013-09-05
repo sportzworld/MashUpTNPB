@@ -19,3 +19,9 @@
 <link>http://85.12.8.80/index.php?file=1638&start=0&hd=0&auth=0&type=flv&tv=0</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkwNzA3MjM2NV5BMl5BanBnXkFtZTcwNjI5ODQ0OQ@@._V1._CR47,86.16667175292969,810,1017.0000152587891_SY317_CR12,0,214,317_.jpg</thumbnail>
 </item>
+
+<item>
+<title>test</title>
+<link>rtmp://31.209.96.18:1935/live/12_Sky_Sports_1.stream?token=x4543%400bfcbdcb2d4d3916540a0fe6a6edf455 swfUrl=http://ntv.mx/inc/grindplayer/GrindPlayer.swf app=live?token=x4543%400bfcbdcb2d4d3916540a0fe6a6edf455 playPath=12_Sky_Sports_1.stream?token=x4543%400bfcbdcb2d4d3916540a0fe6a6edf455 pageUrl=http://ntv.mx/?c=2&a=0&p=50 timeout=10 swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf app=live/ pageUrl=http://www.ntv.mx/index.php?c=6&a=0</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkwNzA3MjM2NV5BMl5BanBnXkFtZTcwNjI5ODQ0OQ@@._V1._CR47,86.16667175292969,810,1017.0000152587891_SY317_CR12,0,214,317_.jpg</thumbnail>
+</item>
