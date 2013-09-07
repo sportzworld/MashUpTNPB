@@ -9,49 +9,49 @@
 #######################################################################################################################################
 
 <dir>
-<name>All Movies</name>
+<name>[COLOR green]All Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/All%20Movies.xml</link>
 <thumbnail>http://s20.postimg.org/wkkd4x3j1/all_movies.png</thumbnail>
 </dir>
 
 <dir>
-<name>Action & Thriller Movies</name>
+<name>[COLOR green]Action & Thriller Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/Action%26Thriller.xml</link>
 <thumbnail>http://s20.postimg.org/de761qn19/action_thriller.png</thumbnail>
 </dir>
 
 <dir>
-<name>Comedy Movies</name>
+<name>[COLOR green]Comedy Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/ComedyMovies.xml</link>
 <thumbnail>http://s20.postimg.org/trr5kw36l/comedy.png</thumbnail>
 </dir>
 
 <dir>
-<name>Drama & Romance Movies</name>
+<name>[COLOR green]Drama & Romance Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/Drama%26Romance.xml</link>
 <thumbnail>http://s20.postimg.org/o4ze15q1p/drama_romance.png</thumbnail>
 </dir>
 
 <dir>
-<name>Family Movies</name>
+<name>[COLOR green]Family Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/FamilyMovies.xml</link>
 <thumbnail>http://s20.postimg.org/kzesay7fh/family.png</thumbnail>
 </dir>
 
 <dir>
-<name>Sci-Fi & Horror Movies</name>
+<name>[COLOR green]Sci-Fi & Horror Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/Scifi%26Horror.xml</link>
 <thumbnail>http://s20.postimg.org/web9fkjrx/scifi_horror.png</thumbnail>
 </dir>
 
 <dir>
-<name>War & Western Movies</name>
+<name>[COLOR green]War & Western Movies[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/War%26Westerns.xml</link>
 <thumbnail>http://s20.postimg.org/e00qbl7h9/war_western.png</thumbnail>
 </dir>
 
 <dir>
-<name>Latest Cinema Releases</name>
+<name>[COLOR green]Latest Cinema Releases[/color]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/LatestCinema.xml</link>
 <thumbnail>http://s20.postimg.org/qov0v9dlp/latest_cinema_releases.png</thumbnail>
 </dir>
