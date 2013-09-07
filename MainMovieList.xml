@@ -9,49 +9,49 @@
 #######################################################################################################################################
 
 <dir>
-<name>[COLOR lime]All Movies[/color]</name>
+<name>[COLOR lime]All Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/All%20Movies.xml</link>
 <thumbnail>http://s20.postimg.org/wkkd4x3j1/all_movies.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]Action & Thriller Movies[/color]</name>
+<name>[COLOR lime]Action & Thriller Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/Action%26Thriller.xml</link>
 <thumbnail>http://s20.postimg.org/de761qn19/action_thriller.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]Comedy Movies[/color]</name>
+<name>[COLOR lime]Comedy Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/ComedyMovies.xml</link>
 <thumbnail>http://s20.postimg.org/trr5kw36l/comedy.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]Drama & Romance Movies[/color]</name>
+<name>[COLOR lime]Drama & Romance Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/Drama%26Romance.xml</link>
 <thumbnail>http://s20.postimg.org/o4ze15q1p/drama_romance.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]Family Movies[/color]</name>
+<name>[COLOR lime]Family Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/FamilyMovies.xml</link>
 <thumbnail>http://s20.postimg.org/kzesay7fh/family.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]Sci-Fi & Horror Movies[/color]</name>
+<name>[COLOR lime]Sci-Fi & Horror Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/Scifi%26Horror.xml</link>
 <thumbnail>http://s20.postimg.org/web9fkjrx/scifi_horror.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]War & Western Movies[/color]</name>
+<name>[COLOR lime]War & Western Movies[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/War%26Westerns.xml</link>
 <thumbnail>http://s20.postimg.org/e00qbl7h9/war_western.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR lime]Latest Cinema Releases[/color]</name>
+<name>[COLOR lime]Latest Cinema Releases[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/LatestCinema.xml</link>
 <thumbnail>http://s20.postimg.org/qov0v9dlp/latest_cinema_releases.png</thumbnail>
 </dir>
