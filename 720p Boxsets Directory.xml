@@ -59,9 +59,9 @@
 </dir>
 
 <dir>
-<name>The Dark knight Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Batman%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
+<name>Batman Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Batman.%20Boxset.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w92/4AUoqt72CVP4UV902hmdDj4t5Q9.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -326,6 +326,12 @@
 <name>Terminator Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Terminator%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/xSTYJFt2lARiVHUa28sZl4FfNQB.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Dark knight Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Batman%20Boxset.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
 </dir>
 
 <dir>
