@@ -1,16 +1,16 @@
 #######################################################################################################################################
 <poster>BigBallzBaby</poster>
-<fanart>http://fc03.deviantart.net/fs71/i/2010/035/8/a/Pirate_Bay_Wallpaper_by_blahoobadyhoo.jpg</fanart>
+<fanart>http://s20.postimg.org/f1ov06599/fanart2.png</fanart>
 #######################################################################################################################################
 <info>
 <message>[COLOR red]TNPB Live Streams[/COLOR]</message>
-<thumbnail>http://www.macausportingclub.com/index_htm_files/live-stream-animation.gif</thumbnail>
+<thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
 </info>
 #######################################################################################################################################
 
 <item>
 <title>Hangin' with Mr Cooper</title>
-<link>rtmp://198.27.74.25/app playpath=cooper01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?cooper01 live=1</link>
+<link>rtmp://173.192.81.172/flash playpath=16612 swfUrl=http://udemy.com/static/flash/player5.9.swf pageUrl=http://sawlive.tv/embed/watch/YzlhMzUyYzUyZDVjOmFhNzQzMjpjOWNhOGQyZDFhZWMzOWNhYjM3YWM4YWZjMzYxYj/ZhYzMyNTQ2ZDFiOjI2MTQ4Y2NkNjQwMzZkOGI5NmQwOTU0NDc3MThlZWU1.tv/jwplayer/player.swf pageUrplayerindex3.php?cooper01 live=1</link>
 <thumbnail>http://media.tumblr.com/tumblr_lqes7kqHYQ1qhfby5.jpg</thumbnail>
 </item>
 
@@ -26,7 +26,7 @@ item>
 <thumbnail>http://sharetv.org/images/will_and_grace-show.jpg</thumbnail>
 </item>
 
-<item>
+item>
 <title>The Cosby Show</title>
 <link>rtmp://198.27.74.25/app playpath=cosby01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?cosby01 live=1</link>
 <thumbnail>http://www.episodedata.com/images/series/cosbyshow.jpg</thumbnail>
@@ -47,13 +47,13 @@ item>
 <item>
 <title>Next Generation (Star Trek)</title>
 <link>rtmp://198.27.74.25/app playpath=tng01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?tng01 live=1</link>
-<thumbnail>http://izle.scifiturk.com/wp-content/uploads/Star-Trek-The-Next-Generation.jpg</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bb/TNGopeninglogo.png</thumbnail>
 </item>
 
 <item>
 <title>King of the Hill</title>
 <link>rtmp://198.27.74.25/app playpath=koth01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?koth01 live=1</link>
-<thumbnail>http://images.zap2it.com/images/tv-EP00207002/king-of-the-hill-12.jpg</thumbnail>
+<thumbnail>http://www.mhsmustangnews.com/wp-content/uploads/2013/01/Wallpaper-from-Russian-funs-king-of-the-hill-12529142-1440-900.jpg</thumbnail>
 </item>
 
 <item>
@@ -64,7 +64,7 @@ item>
 
 <item>
 <title>Tom & Jerry</title>
-<link>rtmp://204.45.66.186/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tom&jerry.html live=1</link>
+<link>rtmp://204.45.108.34/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TomandJerryTitleCardc.jpg/250px-TomandJerryTitleCardc.jpg</thumbnail>
 </item>
 
@@ -82,7 +82,7 @@ item>
 
 <item>
 <title>Cartoon Network</title>
-<link>rtmp://edge.isearch.to/edge playpath=lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=450&channel=41423&autoplay=true</link>
+<link>rtmp://live.iguide.to/edge playpath=srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=442&channel=52112&autoplay=true</link>
 <thumbnail>http://www.graphics99.com/wp-content/uploads/2012/06/cartoon.png</thumbnail>
 </item>
 
@@ -94,14 +94,14 @@ item>
 
 <item>
 <title>True Blood</title>
-<link>rtmp://edge.isearch.to/edge playpath=30g7j2j4eqinzux swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=466&channel=43368&autoplay=true</link>
+<link>rtmp://live.iguide.to/edge playpath=30g7j2j4eqinzux swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=466&channel=43368&autoplay=true</link>
 <thumbnail>http://kingbritt.com/wp-content/uploads/2010/09/True-Blood.jpg</thumbnail>
 </item>
 
 <item>
 <title>That 70s Show</title>
-<link>rtmp://198.27.74.25/app playpath=that70sshow01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?%74%68%61%74%37%30%73%73%68%6F%7701 live=1</link>
-<thumbnail>http://images4.fanpop.com/image/photos/21400000/That-70-s-Show-Tornado-Prom-4-15-that-70s-show-21437548-1067-800.jpg</thumbnail>
+<link>rtmp://live.iguide.to/edge playpath=t7ha4ghb4ilwaoo swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=466&channel=38217&autoplay=true</link>
+<thumbnail>http://woodstockwardrobe.files.wordpress.com/2011/11/that-70s-show.jpeg</thumbnail>
 </item>
 
 <item>
@@ -124,7 +124,7 @@ item>
 
 <item>
 <title>House</title>
-<link>rtmp://edge.isearch.to/edge playpath=vampcgkmpaun6at swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=466&channel=40783&autoplay=true</link>
+<link>rtmp://live.iguide.to/edge playpath=vampcgkmpaun6at swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=466&channel=40783&autoplay=true</link>
 <thumbnail>http://pic.myegy.com/pic_big/455773958.jpg</thumbnail>
 </item>
 
@@ -134,7 +134,7 @@ item>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/15/DisneyChannel2010.png/200px-DisneyChannel2010.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>WWE</title>
 <link>rtmp://141.8.244.56/tv playpath=wwe_live swfUrl=http://sportsembed.com/class/playerhd.swf pageUrl=http://sportsembed.com/embed.php?v=wwe_live&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=1</link>     
 <thumbnail>http://www.wwe.com/f/styles/ep_trending/public/wwe_default.jpg</thumbnail>
@@ -142,7 +142,7 @@ item>
 
 item>
 <title>The Walking Dead</title>
-<link>rtmp://198.27.74.25/app playpath=twd swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?twd live=1</link>
+<link>rtmp://173.193.197.46/flash playpath=15884 swfUrl=http://udemy.com/static/flash/player5.9.swf pageUrl=http://sawlive.tv/embed/watch/YTQ3ZTk0NjE4OWQ5Ojk2NzU2ZTZlNzk2MjZmNmU2NTpjNmY4ZDYwODU0YzZlNjJlMD/c0ZTM4MWQ0ODJlZWIzOTFjOWY2NTAyOjc4N2Q5NzI3NmY4OTdhNDQwNDUzZjBhM2FkNTU0M2Fi live=1</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh2LFJqjbsfjqHeXxqOLucEDcH313nXPtWWaoL5-TFLQeYJTYe</thumbnail>
 </item>
 
