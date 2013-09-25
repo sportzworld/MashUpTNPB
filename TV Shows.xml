@@ -63,6 +63,24 @@
 </dir>
 
 <dir>
+<name>Family Guy</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Family-Guy/Family%20Guy%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/75978-15.jpg</thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
 <name></name>
 <link></link>
 <thumbnail></thumbnail>
@@ -85,4 +103,5 @@
 <link></link>
 <thumbnail></thumbnail>
 </dir>
+
 
