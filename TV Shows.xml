@@ -80,11 +80,11 @@
 <thumbnail>http://thetvdb.com/banners/posters/76290-6.jpg</thumbnail>
 </dir>
 
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
+dir>
+name>Friends</name>
+link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Friends/Friends%20Directory.xml</link>
+thumbnail>http://thetvdb.com/banners/posters/79168-5.jpg</thumbnail>
+/dir>
 
 <dir>
 <name></name>
