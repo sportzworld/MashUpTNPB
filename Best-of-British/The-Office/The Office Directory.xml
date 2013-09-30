@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <poster>BigBallzBaby</poster>
-<fanart></fanart>
+<fanart>http://thetvdb.com/banners/fanart/original/78107-4.jpg</fanart>
 #######################################################################################################################################
 
 <dir>
@@ -16,31 +16,7 @@
 </dir>
 
 <dir>
-<name>Season 3</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Season 4</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Season 5</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Season 6</name>
-<link></link>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<name>Season 7</name>
+<name>Specials</name>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
