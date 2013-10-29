@@ -9,6 +9,16 @@
 #######################################################################################################################################
 
 <item>
+<title>Man Utd vs Norwich</title>
+<link>
+<sublink>rtmp://46.23.67.98:443/liverepeater playpath=stream1 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream1.html live=1</sublink>
+<sublink>rtmp://31.220.0.103:443/live playpath=ch1x swfUrl=http://www.reyhq.com/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch1x&vw=620&vh=490 live=1</sublink>
+<sublink>rtmp://80.82.64.102:1935/zmtvliveme playpath=e93CGMl2Su swfUrl=http://static.zoomtv.me/player/jwplayer.6.5.3.swf pageUrl=http://www.zoomtv.me/embed1.php?v=3mossp&vw=660&vh=450 live=1</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/296px-Manchester_United_FC_crest.svg.png</thumbnail>
+</item>
+
+<item>
 <title>Family Guy</title>
 <link>rtmp://198.27.74.25/app playpath=familyguy01 swfUrl=http://www.tgun.tv/jwplayer/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?familyguy01 live=1</link>
 <thumbnail>http://images5.fanpop.com/image/photos/25200000/family-guy-family-guy-25241951-1920-1200.jpg</thumbnail>
