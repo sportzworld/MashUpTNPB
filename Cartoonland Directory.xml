@@ -8,6 +8,11 @@
 </info>
 #######################################################################################################################################
 
+<dir>
+<name>Thundercats</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Cartoonland/Thundercats/Thundercats%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/70355-2.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>Animaniacs</name>
@@ -61,12 +66,6 @@
 <name>Tom & Jerry Tales</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Cartoonland/Tom%20and%20Jerry%20Tales.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/82837-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
 </dir>
 
 <dir>
