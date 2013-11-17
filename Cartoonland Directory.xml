@@ -9,6 +9,12 @@
 #######################################################################################################################################
 
 <dir>
+<name>Help! It's the Hair Bear Bunch</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Cartoonland/The%20Hair%20Bear%20Bunch.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/76264-1.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Thundercats</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Cartoonland/Thundercats/Thundercats%20Directory.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/70355-2.jpg</thumbnail>
