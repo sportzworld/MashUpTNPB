@@ -9,6 +9,12 @@
 #######################################################################################################################################
 
 <dir>
+<name>SuperTed</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Cartoonland/SuperTed.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/83703-1.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>He-Man and the Masters of the Universe</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Cartoonland/He-Man/He-Man%20Directory.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/73014-1.jpg</thumbnail>
