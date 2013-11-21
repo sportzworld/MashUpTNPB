@@ -4,11 +4,51 @@
 #######################################################################################################################################
 
 <item>
-<title></title>
+<title>Sky Sports 1</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://141.8.247.250/base/desi1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#. timeout=10</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://cricfree.tv/images/sky-sports-1-live-stream.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>
+<sublink>rtmp://141.8.247.250/base/desi2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#. timeout=10</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://cricfree.tv/images/sky-sports-22-live-stream.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>
+<sublink>rtmp://141.8.247.250/base/desi3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#.</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://cricfree.tv/images/sky-sports-3-live-stream.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>
+<sublink>rtmp://141.8.247.250/base/des4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600vh=450 token=%X886(nPK@#.</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://cricfree.tv/images/sky-sports-4-live-stream.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News</title>
+<link>
+<sublink>rtmp://141.8.247.250/base/skysnews.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600vh=450 token=%X886(nPK@#.</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://cricfree.tv/images/sky-sports-news-live-stream.png</thumbnail>
 </item>
