@@ -10,7 +10,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://cricfree.tv/images/sky-sports-1-live-stream.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
 </item>
 
 <item>
@@ -20,7 +20,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://cricfree.tv/images/sky-sports-22-live-stream.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports2.png</thumbnail>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://cricfree.tv/images/sky-sports-3-live-stream.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 </item>
 
 <item>
@@ -40,7 +40,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://cricfree.tv/images/sky-sports-4-live-stream.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4_in_pubs.png</thumbnail>
 </item>
 
 <item>
@@ -50,5 +50,45 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://cricfree.tv/images/sky-sports-news-live-stream.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1</title>
+<link>
+<sublink>rtmpe://46.246.29.149:1935/live/ban6 pageUrl=http://www.hdcast.tv/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2</title>
+<link>
+<sublink>rtmpe://46.246.29.149:1935/live/ban7 pageUrl=http://www.hdcast.tv/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
