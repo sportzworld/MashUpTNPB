@@ -74,21 +74,101 @@
 </item>
 
 <item>
-<title></title>
+<title>Al Jazeera Sports +1</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_1 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
 </item>
 
 <item>
-<title></title>
+<title>Al Jazeera Sports +2</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_2 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +3</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_3 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +4</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_4 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +5</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_5 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +6</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_6 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +7</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_7 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +8</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_8 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +9</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_9 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera Sports +10</title>
+<link>
+<sublink>rtmp://www.teledunet.com:1935/teledunet/jsc_10 swfUrl=http://www.teledunet.com/tv/player.swf?id0=82431528948700&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.en.aljazeerasport.tv/namedImage/13213/ajtv_header_logo.png</thumbnail>
 </item>
