@@ -6,7 +6,7 @@
 <name>Categories</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/MainMovieList.xml</link>
 <thumbnail>http://s20.postimg.org/hhqoe0nbx/categories2.png</thumbnail>
-<date>16/11/13</date>
+<date>TNPB! - testing testing testing</date>
 
 <name>Hot 30</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/top30.xml</link>
@@ -73,6 +73,10 @@
 <thumbnail>http://i43.tinypic.com/16gbgqa.jpg</thumbnail>
 <date>22/11/13</date>
 
+<name>Documentaries</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Documentaries.xml</link>
+<thumbnail>http://i40.tinypic.com/kch0g6.jpg</thumbnail>
+<date>29/11/13</date>
 #######################################################################################################################################
 <info>
 <message>[COLOR lime]Follow Me On Twitter[/COLOR] [COLORblue]@bigballzbaby[/COLOR]</message>
