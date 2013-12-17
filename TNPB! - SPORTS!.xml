@@ -6,7 +6,7 @@
 <item>
 <title>Sky Sports 1</title>
 <link>
-<sublink>rtmp://141.8.247.250/base/desi1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#. timeout=10</sublink>
+<sublink>rtmp://31.220.0.82:1935/live playpath jsx7x swfUrl http://www.eucast.tv/player5.9.swf pageUrl http://www.eucast.tv/embed.php?live=jsx7x&vw=620&vh=490 live=1</sublink>
 <sublink>rtmpe://46.246.29.149:1935/live/ban1 pageUrl=http://www.hdcast.tv</sublink>
 <sublink></sublink>
 </link>
