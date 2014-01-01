@@ -1,46 +1,52 @@
 #######################################################################################################################################
 <poster>TNPB</poster>
-<fanart></fanart>
+<fanart>http://s20.postimg.org/ytikokly5/TNPB_Montage.jpg</fanart>
 #######################################################################################################################################
+
+<popup>
+<name>CLICK ME!</name>
+<popImage>http://s20.postimg.org/76f21yfj1/New_Releases_Message.jpg</popImage>
+<thumbnail>http://s20.postimg.org/xg04kr1gd/Info.jpg</thumbnail>
+</popup>
 
 <dir>
 <name>Monday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Monday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/rk1ljlwrh/Monday.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Tuesday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Tuesday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/v2dlfzxnh/Tuesday.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Wednesday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Wednesday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/55jx3dtzx/Wednesday.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Thursday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Thursday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/b57o71esd/Thursday.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Friday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Friday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/aeey19cf1/Friday.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Saturday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Saturday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/ivegc6h3x/Saturday.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Sunday</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/Sunday.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s20.postimg.org/ysd88w9i5/Sunday.jpg</thumbnail>
 </dir>
