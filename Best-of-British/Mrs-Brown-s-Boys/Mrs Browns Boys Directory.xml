@@ -1,28 +1,28 @@
 #######################################################################################################################################
 <poster>TNPB</poster>
-<fanart></fanart>
+<fanart>http://thetvdb.com/banners/fanart/original/219631-4.jpg</fanart>
 #######################################################################################################################################
 
 <dir>
 <name>Season 1</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/Mrs-Brown-s-Boys/Season%201.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/219631-1-3.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 2</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/Mrs-Brown-s-Boys/Season%202.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/219631-2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 3</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/Mrs-Brown-s-Boys/Season%203.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/219631-3-2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Specials</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/Mrs-Brown-s-Boys/Specials.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/219631-0-2.jpg</thumbnail>
 </dir>
