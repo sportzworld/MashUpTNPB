@@ -1,28 +1,28 @@
 #######################################################################################################################################
 <poster>TNPB</poster>
-<fanart></fanart>
+<fanart>http://thetvdb.com/banners/fanart/original/74873-4.jpg</fanart>
 #######################################################################################################################################
 
 <dir>
 <name>Season 1</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The-Vicar-of-Dibley/Season%201.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/2896-1.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 2</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The-Vicar-of-Dibley/Season%202.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/2896-2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 3</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The-Vicar-of-Dibley/Season%203.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/2896-3.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Specials</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/The-Vicar-of-Dibley/Specials.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/74873-0.jpg</thumbnail>
 </dir>
