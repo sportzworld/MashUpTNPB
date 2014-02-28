@@ -1,28 +1,28 @@
 #######################################################################################################################################
 <poster>TNPB</poster>
-<fanart></fanart>
+<fanart>http://thetvdb.com/banners/fanart/original/79317-15.jpg</fanart>
 #######################################################################################################################################
 
 <dir>
 <name>Season 1</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Kids-TV-Shows/Hannah-Montana/Season%201.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/79317-1-2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 2</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Kids-TV-Shows/Hannah-Montana/Season%202.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/79317-2.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 3</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Kids-TV-Shows/Hannah-Montana/Season%203.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/79317-3.jpg</thumbnail>
 </dir>
 
 <dir>
 <name>Season 4</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Kids-TV-Shows/Hannah-Montana/Season%204.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thetvdb.com/banners/seasons/79317-4-2.jpg</thumbnail>
 </dir>
