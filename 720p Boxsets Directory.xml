@@ -87,12 +87,6 @@
 </dir>
 
 <dir>
-<name>Chuck Norris Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Chuck%20Norris%20Collection.xml</link>
-<thumbnail>http://c3.cduniverse.ws/resized/250x500/movie/410/1540410.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>Clerks Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Clerks%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/dmNytzvQTjylI83qrgDoS1KQ0ev.jpg</thumbnail>
@@ -103,7 +97,6 @@
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Conan%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/vguM8mJmArTn9ePTm8fK0Ryt7EI.jpg</thumbnail>
 </dir>
-
 
 <dir>
 <name>Die Hard Boxset</name>
@@ -202,12 +195,6 @@
 </dir>
 
 <dir>
-<name>Ip Man Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Ip%20Man%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/8GDy6v6mnlQ8YwSBloBvQFrs6iu.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>Iron Man Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Iron%20Man%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg</thumbnail>
@@ -235,12 +222,6 @@
 <name>Jurassic Park Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Jurassic%20Park%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/aQR4VLVxfrTZedr5fml385PFRzI.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Kill Bill Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Kill%20Bill%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/tf1nUtw3LJGUGv1EFFi23iz6ngr.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -340,12 +321,6 @@
 </dir>
 
 <dir>
-<name>Rush Hour Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Rush%20Hour%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/tml6kgPmPoTmedvE4vdpV5LKn1V.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>Saw Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Saw%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/xmC2A7qPEfiOkQC58fZh8srWQ5v.jpg</thumbnail>
@@ -424,18 +399,6 @@
 </dir>
 
 <dir>
-<name>The Karate Kid Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Karate%20Kid%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/o6h2F0C5eZOy50Q76fNYzc9mvvw.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Matrix Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Matrix%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/lh4aGpd3U9rm9B8Oqr6CUgQLtZL.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>The Mummy Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Mummy%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/kUmCl1Ad0tWZ3CiBxVHAIbaWMEO.jpg</thumbnail>
@@ -466,21 +429,9 @@
 </dir>
 
 <dir>
-<name>Under Siege Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Under%20Siege%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w92/5hkZdonGNmoqatnadpDnIgEbrho.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>Underworld Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Underworld%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/eoxZtI96bM8kHginiTpFkeCqR7Z.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Undisputed Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Undisputed%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/fGHTcpExopRqnE8npYy1Fij1e2M.jpg</thumbnail>
 </dir>
 
 <dir>
