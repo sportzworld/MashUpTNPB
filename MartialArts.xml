@@ -3,10 +3,10 @@
 <fanart>http://s20.postimg.org/ayect85r1/Mash_Homepage.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR red]Movies that fall under my "Martial Arts" category and will be considered and included here are as follows: Hand to Hand Combat, (Kung Fu, Hapkido, Filipino Kali, Jeet Kune Do, Muay Thai, Karate, Pankration, MMA, Etc...) Samurai, Ninjas, and Anything to do with Weapon Use & Swordplay.[/COLOR]</message>
+<message>[COLOR red]RED INDICATES MOVIE BOXSETS,[/COLOR] [COLOR yellow]YELLOW INDICATES ACTOR COLLECTIONS,[/COLOR] WHITE INDICATES INDIVIDUAL MOVIES...</message>
 <thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
 </info>
-##############################################################################################################################
+#######################################################################################################################################
 
 <item>
 <title>American Ninja Boxset</title>
@@ -105,9 +105,81 @@
 </item>
 
 <item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Chuck Norris Collection</title>
 <link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Chuck%20Norris%20Collection.xml</dirlist></link>
 <thumbnail>http://c3.cduniverse.ws/resized/250x500/movie/410/1540410.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link><dirlist></dirlist></link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
