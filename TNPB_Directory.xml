@@ -3,6 +3,14 @@
 <fanart>http://s20.postimg.org/ayect85r1/Mash_Homepage.jpg</fanart>
 #######################################################################################################################################
 
+<notify>
+<new>1</new>
+<message1>TV Shows is back guys!!</message1>
+<message2>still a few shows missing all will be </message2>
+<message3>back to normal soon!! ..TNPB! OUT</message3>
+<old>2</old>
+</notify>
+
 <name>New Releases</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/New-Releases/New%20Releases%20Directory.xml</link>
 <thumbnail>http://s20.postimg.org/gusi53acd/New_Releases_Thumbnail.jpg</thumbnail>
