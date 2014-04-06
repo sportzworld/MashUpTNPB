@@ -3,105 +3,121 @@
 <fanart>http://s20.postimg.org/ayect85r1/Mash_Homepage.jpg</fanart>
 ########################################################################################################################
 <info>
-<message>[COLOR red]Here you will find latest cinema releases... ENJOY![/COLOR]</message>
+<message>[COLOR red]Latest Cinema: TS, CAM, R5/6 & SCRS... ENJOY![/COLOR]</message>
 <thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
 </info>
 ########################################################################################################################
  
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
+<link></link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Captain America: The Winter Soldier (2014) (CAM)</title>
+<link>http://r1---sn-aig7kner.googlevideo.com/videoplayback?id=236f0d4577bce5da&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399400690&sparams=expire,id,ip,ipbits,itag,source&signature=2BBAC6C47F927BF76364E8126D48D1BB64987421.28BE82DD5A0BAD40E040CA5D60853ECE773884BB&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396823249&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY317_CR1,0,214,317_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Noah (2014) (CAM)</title>
+<link>http://r14---sn-aigllnee.googlevideo.com/videoplayback?id=01d397527d2af726&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399400774&sparams=expire,id,ip,ipbits,itag,source&signature=17920153B7D0693D3CD5C573C4688B55C592FA2C.2DE4A6E3212900323F3C8FB89994A31746D78F67&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396823121&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzMzg0MDA3OF5BMl5BanBnXkFtZTgwNTMzOTYwMTE@._V1_SY317_CR0,0,214,317_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Divergent (2014) (CAM)</title>
+<link>http://r18---sn-aigllnel.googlevideo.com/videoplayback?id=a1367e91355dcb9f&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399404472&sparams=expire,id,ip,ipbits,itag,source&signature=45AA285BEBD9B3844799AD2A23BC94F8A9BFE377.468B2D60F3C1A25CC1CD2F570D0E7BF68B0B1F8E&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396823003&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjM3MDIxMzY1NV5BMl5BanBnXkFtZTgwMzk5NjEzMDE@._V1_SX214_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Muppets Most Wanted (2014) (CAM)</title>
+<link>http://r8---sn-aiglln76.googlevideo.com/videoplayback?id=da474eb7b5c3dfc4&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399400534&sparams=expire,id,ip,ipbits,itag,source&signature=5E80AE472321641733FCBB0B17DE5F81B3A3FFEB.311B59B8D4A7FB8C80986F97FD8286680DBCC977&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822891&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDY2MTE0ODM4NF5BMl5BanBnXkFtZTgwMDI3Mjc2MDE@._V1_SX214_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Need for Speed (2014) (CAM)</title>
+<link>http://r16---sn-aiglln7l.googlevideo.com/videoplayback?id=a53c270d8a57ed1b&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399404067&sparams=expire,id,ip,ipbits,itag,source&signature=4620839DAC83AF5B52C7063B7FC0F98411CB0B59.0F02B01D27C15A3610D86AEB84939A0C17198D1C&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822829&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX214_.jpg</thumbnail>
+</item>
+
+<item>
+<title>300: Rise of an Empire (2014) (R6)</title>
+<link>http://r18---sn-aig7knez.googlevideo.com/videoplayback?id=351dc2e23e612f2c&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399400549&sparams=expire,id,ip,ipbits,itag,source&signature=3378145308D35DD6EF30B9CD96234048458F3543.21AE1B6E0B1FF415FE24857640EAE24C921AE473&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822703&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_SY317_CR0,0,214,317_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Non-Stop (2014) (TS)</title>
+<link>http://r8---sn-aiglln7z.googlevideo.com/videoplayback?id=22ba6a585bfef335&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399405961&sparams=expire,id,ip,ipbits,itag,source&signature=743BE616066E5FA28502ABB669F18251BA59D980.1FE77B1A535C8771493C4D8DEC05872E2365DEF0&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822582&mv=m&mws=yes</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_SX214_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pompeii (2014) (CAM)</title>
+<link>http://r1---sn-aig7kne6.googlevideo.com/videoplayback?id=90d32315a906bbca&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399406529&sparams=expire,id,ip,ipbits,itag,source&signature=2E088C28D3DEB4511104A21990A985D6352CF8EE.7B45CABB5D67E4A33E6340A4C899F361CE2434FD&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822402&mv=m</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDE2MTU3NzYwOF5BMl5BanBnXkFtZTgwOTY4NTk4MDE@._V1_SX214_.jpg</thumbnail>
 </item>
 
 <item>
 <title>The Lego Movie (2014) (CAM)</title>
-<link>http://r14---sn-aiglln7y.googlevideo.com/videoplayback?id=8becae88438b186b&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1397297509&sparams=expire,id,ip,ipbits,itag,source&signature=0288CD36AB6CAA76B237091B8244A2FBAB812614.6BF6B966D9C05D90FD8C82C7C2039616004A95FD&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1394973269&mv=m</link>
+<link>http://r19---sn-aigllnee.googlevideo.com/videoplayback?id=661cdeb899d2a550&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399400468&sparams=expire,id,ip,ipbits,itag,source&signature=68DC2341B4D8FF80F0B37476C58EBFDE681D7BB5.6CA460201D5E4C11FB4DDC31ECAF73123F810B96&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822232&mv=m</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX214_.jpg</thumbnail>
 </item>
 
 <item>
 <title>Mr. Peabody & Sherman (2014) (CAM)</title>
-<link>http://r5---sn-aig7kner.googlevideo.com/videoplayback?id=2f0e8fb4d564117b&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1397297318&sparams=expire,id,ip,ipbits,itag,source&signature=45C86E2BA1E02D83B2309D24092A3FD588A512C8.4D44D956A0F58C9039DBC50A5CD58E8F260B9919&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1394973143&mv=m</link>
+<link>http://r5---sn-aig7kner.googlevideo.com/videoplayback?id=2f0e8fb4d564117b&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399400624&sparams=expire,id,ip,ipbits,itag,source&signature=26ACD775A904A52157AD85669792DA8A26D44107.547401210E9B096E0595B90B55D0DCA42AE8FECA&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822288&mv=m</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkxMzM0NzcwN15BMl5BanBnXkFtZTgwNzk1MjMzMTE@._V1_SX214_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Robocop (2014) (CAM)</title>
-<link>http://www.sockshare.com/file/8F21F658AD9F01F9</link>
+<title>Robocop (2014) (R6)</title>
+<link>http://r16---sn-aiglln7k.googlevideo.com/videoplayback?id=2ab01fc322c825ff&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1399405213&sparams=expire,id,ip,ipbits,itag,source&signature=68C678844905E48E5905E6CB9E6E60420EA6F23D.79DB5099C3C16C1C3212429B7DD24FFEDD15A7FE&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1396822165&mv=m</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_SX214_.jpg</thumbnail>
 </item>
