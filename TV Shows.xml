@@ -26,11 +26,11 @@ thumbnail>http://thetvdb.com/banners/_cache/posters/74205-11.jpg</thumbnail>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/73255-26.jpg</thumbnail>
 </dir>
 
-dir>
-name>The Sopranos</name>
-link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Sopranos/The%20Sopranos%20Directory.xml</link>
-thumbnail>http://thetvdb.com/banners/_cache/posters/75299-4.jpg</thumbnail>
-/dir>
+<dir>
+<name>The Sopranos</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Sopranos/The%20Sopranos%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/75299-4.jpg</thumbnail>
+</dir>
 
 dir>
 name>The Pacific</name>
