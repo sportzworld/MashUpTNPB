@@ -33,6 +33,12 @@
 </dir>
 
 <dir>
+<name>Anchorman Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Anchorman%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/dgAcVz0lWFfo9Sed67y6hAQA5b0.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Austin Powers Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Austin%20Powers%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/9fg3fFqjr2ofmgjyWKfKgv6ZLu0.jpg</thumbnail>
@@ -96,6 +102,12 @@
 <name>Conan Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Conan%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/vguM8mJmArTn9ePTm8fK0Ryt7EI.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Crocodile Dundee Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Crocodile%20Dundee%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/wRvh7zdgKsBQvKhxMeWsCXdRwiH.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -165,6 +177,12 @@
 </dir>
 
 <dir>
+<name>Grumpy Old Men Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Grumpy%20Old%20Men%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/nLvUdqgPgm3F85NMCii9gVFUcet.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Hangover Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Hangover%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/aMmNLuyXvdBih1R5RRHtdtNaS6N.jpg</thumbnail>
@@ -180,6 +198,30 @@
 <name>Harry Potter Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Harry%20Potter%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/Ae2x0UWz8xdNo2we6R4pcEkS6j.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hellboy boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/hellboy%20boxset.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/7zzD8uQ5fyC4slZF1ATMS6gtyHS.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hellraiser boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Hellraiser%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/lIK0UgJsA18Z5I1PwpucXzgyF3A.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hollow man boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Hollow%20Man%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/ubc2Nf3fJirAUcxVLUismTSo4XD.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hostel boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Hostel%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/2jLQFRlH8CC9cptcANY5cEtC1q8.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -273,9 +315,21 @@
 </dir>
 
 <dir>
+<name>Nymphomaniac Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Nymphomaniac%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/g2uLtco3A70qpK54der7va79F0R.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Oceans Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Oceans%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/9QH2rtmDZyYVzZDb4t6RTB2aQmL.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Paranormal Activity Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Paranormal%20Activity%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/lYXAMmm9XlYmj5Dr4O9diLQVCJS.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -411,6 +465,18 @@
 </dir>
 
 <dir>
+<name>The Naked Gun Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Naked%20Gun%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/xLzcqGBBU6MoKa1JQ8AhnlkzHmV.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Scorpion King Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Scorpion%20King%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/cmfoQxHqXSAw8hLlyVhu58F8d28.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Titans Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Titans%20Boxset.xml</link>
 <thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/80kN26YcvOUZ2fNRXG69TcUCk06.jpg</thumbnail>
@@ -447,15 +513,15 @@
 </dir>
 
 <dir>
-<name>X-Men Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/X-Men%20Boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg</thumbnail>
+<name>Wayne's World Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Waynes%20World%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/8GjFBJiHeyi7hDrvX7XhGFMkNfz.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Hellboy boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/hellboy%20boxset.xml</link>
-<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/7zzD8uQ5fyC4slZF1ATMS6gtyHS.jpg</thumbnail>
+<name>X-Men Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/X-Men%20Boxset.xml</link>
+<thumbnail>http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w185/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg</thumbnail>
 </dir>
 
 <dir>
