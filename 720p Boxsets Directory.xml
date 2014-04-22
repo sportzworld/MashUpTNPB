@@ -153,6 +153,12 @@
 </dir>
 
 <dir>
+<name>Friday Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Friday%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/zg8KBtzWO6GoEMPOMIRFVmXeSsP.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>G.I. Joe Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/G.I.%20Joe%20Boxset.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/5LtZM6zLB2TDbdIaOC5uafjYZY1.jpg</thumbnail>
@@ -168,6 +174,12 @@
 <name>Godfather Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Godfather%20Boxset.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/elwJW1SqHaQQDJlO4AxWLme0pg1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Gremlins Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Gremlins%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/mcrb8SdAOrJpSMbWWS3Hv304FCG.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -297,6 +309,12 @@
 </dir>
 
 <dir>
+<name>Mad Max Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Mad%20Max%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/8vFP0riVPBaqIL9qEpYMpgoQDz3.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Mission Impossible Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Mission%20Impossible%20Boxset.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/gwyJPIhCK4Xz2WogeBnhCSQfUek.jpg</thumbnail>
@@ -348,6 +366,12 @@
 <name>Police Academy Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Police%20Academy%20Boxset.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/xvv8H9lqTvSqtll8fksEcIhTnMx.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Psycho Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Psycho%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/pbs28tuWlIHcO16arntz2GOBkHp.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -429,6 +453,12 @@
 </dir>
 
 <dir>
+<name>Step Up Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Step%20Up%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/gyLww7ZlcwuzqvIwM1osR9Ioqtm.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Superman Boxset</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Superman%20Boxset.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/fcl1EJukkXs4PYazhgpwI1uYAwk.jpg</thumbnail>
@@ -448,8 +478,24 @@
 
 <dir>
 <name>Terminator Boxset</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Terminator%20Boxset.xml</link>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Terminator%20Boxset.<dir>
+<name>Friday 13th Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Friday%2013th%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w92/uobgqpLQff9WvxGKE2OSvXv1RHm.jpg</thumbnail>
+</dir>xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/xSTYJFt2lARiVHUa28sZl4FfNQB.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Butterfly Effect Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Butterfly%20Effect%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/2kzjiPuc8pOXreeDQWtskp8QtdU.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Hills Have Eyes Boxset</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/The%20Hills%20Have%20Eyes%20Boxset.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/zIJ0z0zwVjvURXMJeU3Oi9F1AKD.jpg</thumbnail>
 </dir>
 
 <dir>
