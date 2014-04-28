@@ -279,11 +279,11 @@ thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
 <thumbnail>http://thetvdb.com/banners/posters/81645-1.jpg</thumbnail>
 </dir>
 
-dir>
-name>The King of Queens</name>
-link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20King%20of%20Queens/The%20King%20of%20Queens%20Directory.xml</link>
-thumbnail>http://thetvdb.com/banners/posters/73641-4.jpg</thumbnail>
-/dir>
+<dir>
+<name>The King of Queens</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20King%20of%20Queens/The%20King%20of%20Queens%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/73641-4.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>From Dusk Till Dawn: The Series</name>
