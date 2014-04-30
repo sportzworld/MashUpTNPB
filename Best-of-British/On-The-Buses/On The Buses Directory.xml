@@ -39,8 +39,17 @@
 <thumbnail>http://thetvdb.com/banners/seasons/77019-6.jpg</thumbnail>
 </dir>
 
+https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/On-The-Buses/Specials.xml
+
+
 <dir>
 <name>Season 7</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/On-The-Buses/Season%207.xml</link>
 <thumbnail>http://thetvdb.com/banners/seasons/77019-7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Specials</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Best-of-British/On-The-Buses/Specials.xml</link>
+<thumbnail>http://thetvdb.com/banners/seasons/77019-0.jpg</thumbnail>
 </dir>
