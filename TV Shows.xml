@@ -310,6 +310,18 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 </dir>
 
 <dir>
+<name>Hello Ladies</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hello%20Ladies.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/265609-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
 <name></name>
 <link></link>
 <thumbnail></thumbnail>
@@ -326,4 +338,21 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 <link></link>
 <thumbnail></thumbnail>
 </dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+
+
+
+
 
