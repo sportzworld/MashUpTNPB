@@ -9,24 +9,22 @@
 #######################################################################################################################################
 [COLOR red]()[/COLOR]
 
-<dir>
-<name>Southland [COLOR red](TV Shows)[/COLOR]</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Southland/Southland%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/84645-7.jpg</thumbnail>
-</dir>
-
 <item>
-<title>Generation Iron (2013) (720p) [COLOR red](Documentaries)[/COLOR]</title>
-<link>http://75.126.196.162/index.php?file=3531&start=&hd=0&auth=289577eda9f43404ccab53836a&type=flv&tv=0</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY3NDcxNjIzMF5BMl5BanBnXkFtZTgwMzM1NDAxMDE@._V1_SX214_AL_.jpg</thumbnail>
+<title>RoboCop (2014) (720p) [COLOR red](SciFi/Horror)[/COLOR]</title>
+<link>
+<sublink>http://www.firedrive.com/file/8FFB3A19BA4C0663</sublink>
+<sublink>http://www.sockshare.com/file/9A3F480AEBD65F37</sublink>
+<sublink>http://billionuploads.com/n5qb0ngb15ui</sublink>
+</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_SX214_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Free to Play (2014) (720p) [COLOR red](Documentaries)[/COLOR]</title>
+<title>The Lego Movie (2014) (DVD) [COLOR red](Family)[/COLOR]</title>
 <link>
-<sublink>http://billionuploads.com/gudm9shrjs1w</sublink>
-<sublink>http://movreel.com/nh2v8u88b51o</sublink>
-<sublink>http://180upload.com/6m53guq9wp0l</sublink>
+<sublink>http://movreel.com/2g4h7db5xebj</sublink>
+<sublink>http://billionuploads.com/0qn88klzd8gw</sublink>
+<sublink>http://hugefiles.net/8fmgswxw4nsd</sublink>
 </link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxMjk0OTUwMF5BMl5BanBnXkFtZTgwNTY0ODIzMDE@._V1_SY317_CR5,0,214,317_AL_.jpg</thumbnail>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX214_AL_.jpg</thumbnail>
 </item>
