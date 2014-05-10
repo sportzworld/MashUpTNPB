@@ -45,11 +45,11 @@
 <thumbnail>http://thetvdb.com/banners/posters/79349-20.jpg</thumbnail>
 </dir>
 
-dir>
-name>The Mentalist</name>
-link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Mentalist/The%20Mentalist%20Directory.xml</link>
-thumbnail>http://thetvdb.com/banners/posters/82459-8.jpg</thumbnail>
-/dir>
+<dir>
+<name>The Mentalist</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Mentalist/The%20Mentalist%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/82459-8.jpg</thumbnail>
+</dir>
 
 <dir>
 <name>The Walking Dead</name>
