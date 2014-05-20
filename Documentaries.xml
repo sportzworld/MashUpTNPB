@@ -1,21 +1,209 @@
 #######################################################################################################################################
 <poster>TNPB</poster>
-<fanart>http://1hdwallpapers.com/wallpapers/gr_canyon_thunderstorm.jpg</fanart>
+<fanart>http://s20.postimg.org/5c60zrxjx/DOCS_MONTAGE.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR red]UNDER CONSTRUCTION!![/COLOR]</message>
+<message>[COLOR red]DOC'S HIGHLIGHTED IN RED ARE TV SERIES... ENJOY!![/COLOR]</message>
 <thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
 </info>
 #######################################################################################################################################
 
 <item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
+<title>[COLOR red]America Unearthed[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/America%20Unearthed/America%20Unearthed%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/265052-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Ancient Aliens[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Ancient%20Aliens/Ancient%20Aliens%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/101501-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]How the Universe Works[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/How%20the%20Universe%20Works/How%20the%20Universe%20Works%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/159651-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Ross Kemp on Gangs[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Ross%20Kemp%20on%20Gangs/Ross%20Kemp%20on%20Gangs%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/80609-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Stan Lees Superhuman[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Stan%20Lees%20Superhuman/Stan%20Lees%20Superhuman%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/181571-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]The Universe[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Universe/The%20Universe%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/80198-3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Through the Wormhole[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Through%20the%20Wormhole/Through%20the%20Wormhole%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/168571-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Time Warp[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Time%20Warp/Time%20Warp%20Directory.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/82682-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Apocalypse: The Second World War[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Apocalypse%20The%20Second%20World%20War.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/250342-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Blood of the Vikings[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Blood%20of%20the%20Vikings.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/79358-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]How Earth Made Us[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/How%20Earth%20Made%20Us.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/136411-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Into the Universe with Stephen Hawking[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Into%20the%20Universe%20with%20Stephen%20Hawking.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/159461-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Life in Cold Blood[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Life%20in%20Cold%20Blood.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/81394-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Life[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Life.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/118421-5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Lost Land of the Volcano[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Lost%20Land%20of%20the%20Volcano.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/112631-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Micro Monsters With David Attenborough[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Micro%20Monsters%20With%20David%20Attenborough.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/270732-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Pandora's Box[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Pandoras%20Box.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/81168-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Planet Dinosaur[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Planet%20Dinosaur.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/251542-3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Planet Earth[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Planet%20Earth.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/79257-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Ross Kemp in Search of Pirates[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Ross%20Kemp%20in%20Search%20of%20Pirates.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/98691-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Russian Godfathers[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Russian%20Godfathers.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/218871-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]The Blue Planet[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Blue%20Planet.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/74372-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]The Genius of Charles Darwin[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Genius%20of%20Charles%20Darwin.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/82840-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]The Great Rift Africa's Wild Heart[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Great%20Rift%20Africa%27s%20Wild%20Heart.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/140541-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]The Living Dead[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Living%20Dead.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/85504-1.jpg</thumbnail>
+</item>
+
+item>
+title>[COLOR red]The Living Planet[/COLOR]</title>
+link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Living%20Planet.xml</dirlist></link>
+thumbnail>http://thetvdb.com/banners/posters/78864-1.jpg</thumbnail>
+/item>
+
+<item>
+<title>[COLOR red]The Trials of Life[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20Trials%20of%20Life.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/79947-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]The World at War[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/The%20World%20at%20War.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/79309-5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Tropic of Cancer[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Tropic%20of%20Cancer.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/149621-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Tropic of Capricorn[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Tropic%20of%20Capricorn.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/81419-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Twenties in Colour[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Twenties%20in%20Colour.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/81532-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Vinnie Jones: Russias Toughest[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/Vinnie%20Jones%20Russias%20Toughest.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/273226-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]What the Ancients Did For us[/COLOR]</title>
+<link><dirlist>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/What%20the%20Ancients%20Did%20For%20us.xml</dirlist></link>
+<thumbnail>http://thetvdb.com/banners/posters/78850-1.jpg</thumbnail>
 </item>
 
 <item>
@@ -26,156 +214,6 @@
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Jaws: The Inside Story (2010)</title>
-<link>http://www.firedrive.com/file/59VHYO9U8SVN</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/durZDxQqJsde5YEeJBtI82VSWTy.jpg</thumbnail>
-</item>
-
-<item>
-<title>Generation Iron (2013) (720p)</title>
-<link>http://75.126.196.162/index.php?file=3531&start=&hd=0&auth=289577eda9f43404ccab53836a&type=flv&tv=0</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY3NDcxNjIzMF5BMl5BanBnXkFtZTgwMzM1NDAxMDE@._V1_SX214_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Free to Play (2014) (720p)</title>
-<link>
-<sublink>http://billionuploads.com/gudm9shrjs1w</sublink>
-<sublink>http://movreel.com/nh2v8u88b51o</sublink>
-<sublink>http://180upload.com/6m53guq9wp0l</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxMjk0OTUwMF5BMl5BanBnXkFtZTgwNTY0ODIzMDE@._V1_SY317_CR5,0,214,317_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Scientology: The Ex-Files (2010)</title>
-<link>http://www.sockshare.com/file/9273FC295C96B96E</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/519N-B19ruL._SX200_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Kurt & Courtney (1998)</title>
-<link>http://r12---sn-aiglln7r.googlevideo.com/videoplayback?id=975047adae597b84&itag=34&source=picasa&ip=151.224.56.185&ipbits=0&expire=1397300933&sparams=expire,id,ip,ipbits,itag,source&signature=0994B4D863610DD918BA8B71D08785459E968065.0B6F7CE0FDF3A6F10C0B1D3EB0C65BCDC78D8F05&key=cms1&begin=0&cms_redirect=yes&ms=nxu&mt=1395602005&mv=m</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM5NDc1MTE0M15BMl5BanBnXkFtZTcwMTkxNjYyMQ@@._V1_SY317_CR3,0,214,317_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Johnny Cash at Folsom Prison (1968)</title>
-<link>http://megarelease.org/lpfn7n6eebnb</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/bRaU1hx4pCHCtkRfj2lENJ2kL11.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sea of Creepy Monsters (2010)</title>
-<link>http://vidto.me/n51bcrrb36p5.html</link>
-<thumbnail>http://www.stfimages.com/images/lsqZ.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Up in Smoke Tour (2000) (DVD)</title>
-<link>
-<sublink>http://www.firedrive.com/file/37754DE945E0F4AC</sublink>
-<sublink>http://www.sockshare.com/file/DE19D98BAC026A97</sublink>
-<sublink>http://veehd.com/video/4545507_The-Up-In-Smoke-Tour-HD</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEyMzU2Mjk4Ml5BMl5BanBnXkFtZTcwMTE2NDYxMQ@@._V1_SY317_CR3,0,214,317_.jpg</thumbnail>
-</item>
-
-<item>
-<title>20 Feet from Stardom (2013) (720p)</title>
-<link>
-<sublink>http://www.firedrive.com/file/EAF66BBA81C864FC</sublink>
-<sublink>http://billionuploads.com/the9pav6myil</sublink>
-<sublink>http://180upload.com/nxskewytvfl9</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/aFQHlH23U9gHhvNn7rr38hFBYce.jpg</thumbnail>
-</item>
-
-<item>
-<title>We Steal Secrets: The Story of WikiLeaks (2013)</title>
-<link>
-<sublink>http://hugefiles.net/5s1k8l7mebwl</sublink>
-<sublink>http://megarelease.org/2tpimspqnwha</sublink>
-<sublink>http://megarelease.org/2tpimspqnwha</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BNTg3MjUyNjkzNl5BMl5BanBnXkFtZTcwMTQzNDgyOQ@@._V1_SX214_.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Story of AC/DC: Dirty Deeds (2013)</title>
-<link>http://www.nowvideo.sx/video/16dd105cd3735</link>
-<thumbnail>http://www.mooviemaniac.net/index_htm_files/24676.jpg</thumbnail>
-</item>
-
-<item>
-<title>Mike Tyson: Undisputed Truth (2013)</title>
-<link>http://www.nowvideo.sx/video/7626c74a2139b</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/kzyBUpStHNylUOd6VHDFnCgUmPM.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Class of 92</title>
-<link>
-<sublink>http://billionuploads.com/zpbs1zuy46r8</sublink>
-<sublink>http://movreel.com/6m2l91jv995j</sublink>
-<sublink>http://180upload.com/0aaenrfyqrxw</sublink>
-</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/oC7wDzwfanauYRBsy2KZXSJ9bbg.jpg</thumbnail>
-</item>
-
-<item>
-<title>Super Tornado</title>
-<link>http://www.putlocker.com/file/618ECEAC10E79537</link>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw8XojPNJJGHa_aLReUVVITW0Nqok0s9cCoUoPQa7O0RFH1rUV</thumbnail>
-</item>
-
-<item>
-<title>Tigers Fighting Back</title>
-<link>http://www.youtube.com/watch?v=Ap7SmV-bHns</link>
-<thumbnail>http://i43.tower.com/images/mm111303105/animal-nation-tigers-fighting-back-dvd-cover-art.jpg</thumbnail>
-</item>
-
-<item>
-<title>Naughty by Nature</title>
-<link>http://www.youtube.com/watch?v=mqM0etXJ6HQ</link>
-<thumbnail>http://cdn.tdfimg.com/wp-content/uploads/2013/06/naughty-nature.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Science of Survival</title>
-<link>http://www.youtube.com/watch?v=qVmusHZtQms</link>
-<thumbnail>http://i43.tower.com/images/mm117043994/mutations-science-survival-dvd-cover-art.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Last Lioness</title>
-<link>http://www.youtube.com/watch?v=WG_-FU3NNgw</link>
-<thumbnail>http://2.bp.blogspot.com/_A0nlWTOsGTY/TGVcgq0I8BI/AAAAAAAAC8w/GzBxpT1g2HQ/s1600/Last+Lioness.jpg</thumbnail>
-</item>
-
-<item>
-<title>Supervolcano</title>
-<link>http://www.youtube.com/watch?v=4AjQvOWUJ2o</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e0/Supervolcano.jpg</thumbnail>
-</item>
-
-<item>
-<title>Disney Natures Earth</title>
-<link>http://veehd.com/video/2421565_Planet-Earth-HD-2006</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUwMzU5NDk3NF5BMl5BanBnXkFtZTcwOTM4MDUwMg@@._V1_SY317_CR0,0,214,317_.jpg</thumbnail>
 </item>
 
 <item>
