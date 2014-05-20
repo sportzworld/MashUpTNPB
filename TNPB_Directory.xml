@@ -5,9 +5,9 @@
 
 <notify>
 <new>1</new>
-<message1></message1>
-<message2></message2>
-<message3></message3>
+<message1>DOCUMENTARIES SECTION HAS</message1>
+<message2>HAD A MAKEOVER TAKE A LOOK!</message2>
+<message3>TNPB OUT!!</message3>
 <old>2</old>
 </notify>
 
@@ -109,7 +109,7 @@ date>30 OF THE BEST CHRISTMAS MOVIES EVER MADE .... ENJOY!!</date>
 <name>Documentaries</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Documentaries.xml</link>
 <thumbnail>http://i40.tinypic.com/kch0g6.jpg</thumbnail>
-<date>**CLASS OF 92 ADDED!!**</date>
+<date>**CHECK OUT THE NEW LOOK DOC'S!!**</date>
 #######################################################################################################################################
 <info>
 <message>[COLOR lime]Follow Me On Twitter[/COLOR] [COLORblue]@bigballzbaby[/COLOR]</message>
