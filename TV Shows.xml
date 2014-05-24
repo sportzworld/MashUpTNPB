@@ -94,6 +94,12 @@
 </dir>
 
 <dir>
+<name>Freaks and Geeks</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Freaks%20and%20Geeks.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/76321-3.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Friends</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Friends/Friends%20Directory.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/79168-5.jpg</thumbnail>
@@ -346,13 +352,6 @@ link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Smallville/Smallv
 thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 /dir>
 
-
-
-<dir>
-<name>Freaks and Geeks</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Freaks%20and%20Geeks.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/76321-3.jpg</thumbnail>
-</dir>
 
 <dir>
 <name></name>
