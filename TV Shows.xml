@@ -4,69 +4,9 @@
 #######################################################################################################################################
 
 <dir>
-<name>Breaking Bad</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Breaking-Bad/Breaking%20Bad%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/81189-22.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Band of Brothers</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Band%20of%20Brothers.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/74205-11.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>House M.D</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/House/House%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/73255-26.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Sopranos</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Sopranos/The%20Sopranos%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/_cache/posters/75299-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Pacific</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Pacific.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/85539-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Boardwalk Empire</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Boardwalk-Empire/Boardwalk%20Empire%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/84947-8.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Dexter</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Dexter/Dexter%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/79349-20.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Mentalist</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Mentalist/The%20Mentalist%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/82459-8.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Walking Dead</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Walking-Dead/The%20Walking%20Dead%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/153021-6.jpg</thumbnail>
-</dir>
-
-dir>
-name>Family Guy</name>
-link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Family-Guy/Family%20Guy%20Directory.xml</link>
-thumbnail>http://thetvdb.com/banners/posters/75978-15.jpg</thumbnail>
-/dir>
-
-<dir>
-<name>Hannibal</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hannibal/Hannibal%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/259063-3.jpg</thumbnail>
+<name>2 Broke Girls</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/2-Broke-Girls/2%20Broke%20Girls%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/248741-6.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -76,160 +16,9 @@ thumbnail>http://thetvdb.com/banners/posters/75978-15.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Friends</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Friends/Friends%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/79168-5.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>How I Met Your Mother</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/How-I-Met-Your-Mother/How%20I%20Met%20Your%20Mother%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/75760-13.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Arrow</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Arrow/Arrow%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/257655-15.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Blue Bloods</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Blue-Bloods/Blue%20Bloods%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/164981-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Elementary</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Elementary/Elementary%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/255316-2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Homeland</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Homeland/Homeland%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/247897-7.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Wire</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Wire/The%20Wire%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/79126-2.jpg</thumbnail>
-</dir>
-
-dir>
-name>The Big Bang Theory</name>
-link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Big-Bang-Theory/The%20Big%20Bang%20Theory%20Directory.xml</link>
-thumbnail>http://thetvdb.com/banners/posters/80379-18.jpg</thumbnail>
-/dir>
-
-<dir>
-<name>Mad Men</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Mad-Men/Mad%20Men%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/80337-7.jpg</thumbnail>
-</dir>
-
-dir>
-name>Smallville</name>
-link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Smallville/Smallville%20Directory.xml</link>
-thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
-/dir>
-
-<dir>
-<name>Fringe</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Fringe/Fringe%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/82066-46.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Orange County Choppers</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/OCC.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/274990-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Duck Dynasty</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Duck-Dynasty/Duck%20Dynasty%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/256825-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Person of Interest</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Person-of-Interest/Person%20of%20Interest%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/248742-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Hell on Wheels</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hell-on-Wheels/Hell%20on%20Wheels%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/212961-6.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>American Horror Story</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/American-Horror-Story/American%20Horror%20Story%20Directory.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/250487-19.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>2 Broke Girls</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/2-Broke-Girls/2%20Broke%20Girls%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/248741-6.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Banshee</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Banshee/Bansee%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/259765-9.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Hawaii Five-0</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hawaii-Five-0/Hawaii-Five-0%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/164541-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Oz</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Oz/Oz%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/70682-1.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>Falling Skies</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Falling-Skies/Falling%20Skies%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/205281-10.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Game of Thrones</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Game-of-Thrones/Game%20of%20Thrones%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/121361-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Suits</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Suits/Suits%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/247808-11.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Helix</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Helix.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/265912-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Teen Wolf</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Teen-Wolf/Teen%20Wolf%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/175001-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Once Upon a Time</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Once-Upon-a-Time/Once%20Upon%20a%20Time%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/248835-10.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -239,135 +28,21 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>NCIS: Los Angeles</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/NCIS-Los-Angeles/NCIS%20Los%20Angeles%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/95441-8.jpg</thumbnail>
+<name>Arrow</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Arrow/Arrow%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/257655-15.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Mike & Molly</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Mike-and-Molly/Mike%20and%20Molly%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/164501-6.jpg</thumbnail>
+<name>Band of Brothers</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Band%20of%20Brothers.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/74205-11.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Revenge</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Revenge/Revenge%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/248837-7.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>House of Cards</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/House-of-Cards/House%20of%20Cards%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/262980-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Wonder Years</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Wonder-Years/The%20Wonder%20Years%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/72888-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>North and South</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/North-and-South/North%20and%20South%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/81645-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The King of Queens</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20King%20of%20Queens/The%20King%20of%20Queens%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/73641-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>From Dusk Till Dawn: The Series</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/From%20Dusk%20Till%20Dawn.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/276312-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Star-Crossed</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Starcrossed.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/269604-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Incredible Hulk</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Incredible%20Hulk/The%20Incredible%20Hulk%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/71746-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Southland</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Southland/Southland%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/84645-7.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Hello Ladies</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hello%20Ladies.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/265609-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Touch</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Touch/Touch%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/248935-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Pimp My Ride</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Pimp%20My%20Ride/Pimp%20My%20Ride%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/74210-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Penny Dreadful</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Penny%20Dreadful.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/265766-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Vikings</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Vikings/Vikings%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/260449-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Fargo</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Fargo.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/269613-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Marvel's Agents of S.H.I.E.L.D.</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Agents%20of%20Shield.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/263365-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Following</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Following/The%20Following%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/258744-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>The Blacklist</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Blacklist.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>True Detective</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/True%20Detective.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/270633-4.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Orphan Black</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Orphan%20Black/Orphan%20Black%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/260315-1.jpg</thumbnail>
+<name>Banshee</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Banshee/Bansee%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/259765-9.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -377,15 +52,81 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Whose Line Is It Anyway?</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Whose%20Line%20Is%20It%20Anyway/Whose%20Line%20Is%20It%20Anyway%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/76808-2.jpg</thumbnail>
+<name>Blue Bloods</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Blue-Bloods/Blue%20Bloods%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/164981-1.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>Land of the Giants</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Land%20of%20the%20Giants/Land%20of%20the%20Giants%20Directory.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/77218-1.jpg</thumbnail>
+<name>Boardwalk Empire</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Boardwalk-Empire/Boardwalk%20Empire%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/84947-8.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Breaking Bad</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Breaking-Bad/Breaking%20Bad%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/81189-22.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Dexter</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Dexter/Dexter%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/79349-20.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Duck Dynasty</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Duck-Dynasty/Duck%20Dynasty%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/256825-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Elementary</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Elementary/Elementary%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/255316-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Falling Skies</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Falling-Skies/Falling%20Skies%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/205281-10.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Friends</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Friends/Friends%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/79168-5.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Fringe</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Fringe/Fringe%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/82066-46.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Game of Thrones</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Game-of-Thrones/Game%20of%20Thrones%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/121361-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hannibal</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hannibal/Hannibal%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/259063-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hawaii Five-0</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hawaii-Five-0/Hawaii-Five-0%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/164541-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Hell on Wheels</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Hell-on-Wheels/Hell%20on%20Wheels%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/212961-6.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -395,16 +136,217 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 </dir>
 
 <dir>
+<name>Homeland</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Homeland/Homeland%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/247897-7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>House M.D</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/House/House%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/73255-26.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>House of Cards</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/House-of-Cards/House%20of%20Cards%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/262980-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>How I Met Your Mother</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/How-I-Met-Your-Mother/How%20I%20Met%20Your%20Mother%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/75760-13.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Land of the Giants</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Land%20of%20the%20Giants/Land%20of%20the%20Giants%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/77218-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Mad Men</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Mad-Men/Mad%20Men%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/80337-7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Mike & Molly</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Mike-and-Molly/Mike%20and%20Molly%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/164501-6.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>NCIS: Los Angeles</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/NCIS-Los-Angeles/NCIS%20Los%20Angeles%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/95441-8.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>North and South</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/North-and-South/North%20and%20South%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/81645-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Once Upon a Time</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Once-Upon-a-Time/Once%20Upon%20a%20Time%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/248835-10.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Orphan Black</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Orphan%20Black/Orphan%20Black%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/260315-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Oz</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Oz/Oz%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/70682-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Person of Interest</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Person-of-Interest/Person%20of%20Interest%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/248742-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Pimp My Ride</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Pimp%20My%20Ride/Pimp%20My%20Ride%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/74210-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Revenge</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Revenge/Revenge%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/248837-7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Southland</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Southland/Southland%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/84645-7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Suits</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Suits/Suits%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/247808-11.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Teen Wolf</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Teen-Wolf/Teen%20Wolf%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/175001-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Blacklist</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Blacklist.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Following</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Following/The%20Following%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/258744-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Incredible Hulk</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Incredible%20Hulk/The%20Incredible%20Hulk%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/71746-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The King of Queens</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20King%20of%20Queens/The%20King%20of%20Queens%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/73641-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Mentalist</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Mentalist/The%20Mentalist%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/82459-8.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Pacific</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Pacific.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/85539-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Sopranos</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Sopranos/The%20Sopranos%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/75299-4.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Vampire Diaries</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Vampire%20Diaries/The%20Vampire%20Diaries%20Directory.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/95491-28.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>The Originals</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Originals.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/266883-2.jpg</thumbnail>
+<name>The Walking Dead</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Walking-Dead/The%20Walking%20Dead%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/153021-6.jpg</thumbnail>
 </dir>
+
+<dir>
+<name>The Wire</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Wire/The%20Wire%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/79126-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Wonder Years</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Wonder-Years/The%20Wonder%20Years%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/72888-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Touch</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Touch/Touch%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/248935-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Vikings</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Vikings/Vikings%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/260449-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Whose Line Is It Anyway?</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Whose%20Line%20Is%20It%20Anyway/Whose%20Line%20Is%20It%20Anyway%20Directory.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/76808-2.jpg</thumbnail>
+</dir>
+
+
+dir>
+name>Family Guy</name>
+link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Family-Guy/Family%20Guy%20Directory.xml</link>
+thumbnail>http://thetvdb.com/banners/posters/75978-15.jpg</thumbnail>
+/dir>
+
+dir>
+name>The Big Bang Theory</name>
+link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The-Big-Bang-Theory/The%20Big%20Bang%20Theory%20Directory.xml</link>
+thumbnail>http://thetvdb.com/banners/posters/80379-18.jpg</thumbnail>
+/dir>
+
+dir>
+name>Smallville</name>
+link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/Smallville/Smallville%20Directory.xml</link>
+thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
+/dir>
+
+
 
 <dir>
 <name>Freaks and Geeks</name>
