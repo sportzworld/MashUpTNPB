@@ -250,6 +250,12 @@
 </dir>
 
 <dir>
+<name>The 100</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20100.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/268592-6.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>The Blacklist</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/TV-Shows/The%20Blacklist.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/266189-3.jpg</thumbnail>
@@ -365,6 +371,17 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 /dir>
 
 
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
 
 <dir>
 <name></name>
@@ -378,6 +395,29 @@ thumbnail>http://thetvdb.com/banners/posters/72218-19.jpg</thumbnail>
 <thumbnail></thumbnail>
 </dir>
 
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
 
 
 
