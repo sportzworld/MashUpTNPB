@@ -8,29 +8,44 @@
 </info>
 #######################################################################################################################################
 [COLOR red]()[/COLOR]
-
 <dir>
-<name>Liv and Maddie [COLOR red](Kids TV Shows)[/COLOR]</name>
-<link>https://github.com/mash2k3/MashUpTNPB/raw/master/Kids-TV-Shows/Liv%20and%20Maddie.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/270423-2.jpg</thumbnail>
+<name>Shine a Light (2008) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/Shine%20a%20Light.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/j910kDo2ZoiajSUjGh80J0oyyvx.jpg</thumbnail>
 </dir>
 
-<item>
-<title>The Lego Movie (2014) (DVD) [COLOR red](Hot 30)[/COLOR]</title>
-<link>
-<sublink>http://movreel.com/2g4h7db5xebj</sublink>
-<sublink>http://billionuploads.com/0qn88klzd8gw</sublink>
-<sublink>http://hugefiles.net/8fmgswxw4nsd</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX214_AL_.jpg</thumbnail>
-</item>
+<dir>
+<name>Searching for Sugar Man (2012) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/Searching%20for%20Sugar%20Man.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/ulsuMtzjQFApxFpsSoJ1tv7B0BM.jpg</thumbnail>
+</dir>
 
-<item>
-<title>RoboCop (2014) (720p) [COLOR red](Hot 30)[/COLOR]</title>
-<link>
-<sublink>http://www.firedrive.com/file/8FFB3A19BA4C0663</sublink>
-<sublink>http://www.sockshare.com/file/9A3F480AEBD65F37</sublink>
-<sublink>http://billionuploads.com/n5qb0ngb15ui</sublink>
-</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_SX214_AL_.jpg</thumbnail>
-</item>
+<dir>
+<name>More Brains! A Return to the Living Dead (2011) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/More%20Brains!%20A%20Return%20to%20the%20Living%20Dead.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/q5hi5AxwaXyB8hBW6tz103BWFxt.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Wild Africa an Extraordinary Journey (2013) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/Wild%20Africa%20an%20Extraordinary%20Journey.xml</link>
+<thumbnail>http://www.iwatchonline.to/assets/images/covers/25800.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Narco Cultura (2013) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/Narco%20Cultura.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/hWz0Zvfv0QEgg0QiGekvYoCdUs7.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Rise and Fall of The Clash (2012) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/The%20Rise%20and%20Fall%20of%20The%20Clash.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/2sFgBjkiNaWd3EaTOlUrPtPHRvG.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Cocaine Cowboys Reloaded (2014) [COLOR red](Doc's)[/COLOR]</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/720p-Boxsets/Documentaries/One%20Offs/Cocaine%20Cowboys.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/a8V1t2Z2d2lnFHVcCnNRWxHKeO4.jpg</thumbnail>
+</dir>
